@@ -1,0 +1,91 @@
+{
+    "StormData":
+    {
+        "sizes": [ 50, 40, 30, 20, 10 ],
+        "dmgpersize": [ 2, 5, 10, 20, 40 ],
+        "cordsminrangepersize": [
+            {
+                "x": 60,
+                "y": 76
+            },
+            {
+                "x": 60,
+                "y": 76
+            },
+            {
+                "x": 60,
+                "y": 76
+            },
+            {
+                "x": 60,
+                "y": 76
+            },
+            {
+                "x": 60,
+                "y": 76
+            }
+        ],
+        "cordsmaxrangepersize": [
+            {
+                "x": 60,
+                "y": 76
+            },
+            {
+                "x": 60,
+                "y": 76
+            },
+            {
+                "x": 60,
+                "y": 76
+            },
+            {
+                "x": 60,
+                "y": 76
+            },
+            {
+                "x": 60,
+                "y": 76
+            }
+        ],
+        "intervalpersize": [ 30, 30, 30, 30, 30 ],
+        "colorpersiz": [
+            {
+                "r": 0,
+                "g": 0,
+                "b": 1,
+                "a": 1
+            },
+            {
+                "r": 0,
+                "g": 0,
+                "b": 1,
+                "a": 1
+            },
+            {
+                "r": 0,
+                "g": 0,
+                "b": 1,
+                "a": 1
+            },
+            {
+                "r": 1,
+                "g": 0,
+                "b": 0,
+                "a": 1
+            },
+            {
+                "r": 1,
+                "g": 0,
+                "b": 0,
+                "a": 1
+            }
+        ],
+        "messagepersize": [
+            "Zone 1 Closing!",
+            "Zone 2 Closing!",
+            "Zone 3 Closing!",
+            "Zone 4 Closing!",
+            "Zone 5 Closing!"
+        ]
+    }
+}
