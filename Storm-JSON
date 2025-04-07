@@ -1,8 +1,19 @@
 {
-    "StormData":
-    {
-        "sizes": [ 50, 40, 30, 20, 10 ],
-        "dmgpersize": [ 2, 5, 10, 20, 40 ],
+    "StormData": {
+        "sizes": [
+            50,
+            40,
+            30,
+            20,
+            10
+        ],
+        "dmgpersize": [
+            2,
+            5,
+            10,
+            20,
+            40
+        ],
         "cordsminrangepersize": [
             {
                 "x": 60,
@@ -35,7 +46,7 @@
                 "y": 80
             },
             {
-                "x": 65
+                "x": 65,
                 "y": 80
             },
             {
@@ -47,7 +58,13 @@
                 "y": 80
             }
         ],
-        "intervalpersize": [ 30, 30, 30, 30, 30 ],
+        "intervalpersize": [
+            30,
+            30,
+            30,
+            30,
+            30
+        ],
         "colorpersiz": [
             {
                 "r": 0,
